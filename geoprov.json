@@ -10,10 +10,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0101",
-        "COUNT": 21,
-        "ha": 298037.23,
-        "Provincia": "Chachapoyas"
+        "FIRST_IDPR": "0301",
+        "COUNT": 9,
+        "ha": 345827.34,
+        "Provincia": "Abancay"
       },
       "geometry": {
         "type": "Polygon",
@@ -67,10 +67,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0102",
-        "COUNT": 6,
-        "ha": 573354.36,
-        "Provincia": "Bagua"
+        "FIRST_IDPR": "0902",
+        "COUNT": 8,
+        "ha": 92636.74,
+        "Provincia": "Acobamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -103,10 +103,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0103",
-        "COUNT": 12,
-        "ha": 283842.08,
-        "Provincia": "Bongará"
+        "FIRST_IDPR": "0802",
+        "COUNT": 7,
+        "ha": 93285.81,
+        "Provincia": "Acomayo"
       },
       "geometry": {
         "type": "Polygon",
@@ -186,10 +186,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0104",
-        "COUNT": 3,
-        "ha": 1792723.85,
-        "Provincia": "Condorcanqui"
+        "FIRST_IDPR": "0202",
+        "COUNT": 5,
+        "ha": 69639.63,
+        "Provincia": "Aija"
       },
       "geometry": {
         "type": "Polygon",
@@ -220,10 +220,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0105",
-        "COUNT": 23,
-        "ha": 324512.97,
-        "Provincia": "Luya"
+        "FIRST_IDPR": "1602",
+        "COUNT": 6,
+        "ha": 1917212.66,
+        "Provincia": "Alto Amazonas"
       },
       "geometry": {
         "type": "Polygon",
@@ -344,10 +344,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0106",
-        "COUNT": 12,
-        "ha": 258853.07,
-        "Provincia": "Rodríguez de Mendoza"
+        "FIRST_IDPR": "1002",
+        "COUNT": 8,
+        "ha": 157735.85,
+        "Provincia": "Ambo"
       },
       "geometry": {
         "type": "Polygon",
@@ -384,10 +384,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0107",
-        "COUNT": 7,
-        "ha": 399323.01,
-        "Provincia": "Utcubamba"
+        "FIRST_IDPR": "0302",
+        "COUNT": 19,
+        "ha": 403553.44,
+        "Provincia": "Andahuaylas"
       },
       "geometry": {
         "type": "Polygon",
@@ -451,10 +451,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0201",
+        "FIRST_IDPR": "0903",
         "COUNT": 12,
-        "ha": 251023.89,
-        "Provincia": "Huaraz"
+        "ha": 194061.71,
+        "Provincia": "Angaraes"
       },
       "geometry": {
         "type": "Polygon",
@@ -495,10 +495,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0202",
-        "COUNT": 5,
-        "ha": 69639.63,
-        "Provincia": "Aija"
+        "FIRST_IDPR": "0803",
+        "COUNT": 9,
+        "ha": 194375.59,
+        "Provincia": "Anta"
       },
       "geometry": {
         "type": "Polygon",
@@ -544,10 +544,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0203",
-        "COUNT": 6,
-        "ha": 55914.82,
-        "Provincia": "Antonio Raymondi"
+        "FIRST_IDPR": "0303",
+        "COUNT": 7,
+        "ha": 323079.87,
+        "Provincia": "Antabamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -632,10 +632,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0204",
-        "COUNT": 2,
-        "ha": 52824.62,
-        "Provincia": "Asunción"
+        "FIRST_IDPR": "0203",
+        "COUNT": 6,
+        "ha": 55914.82,
+        "Provincia": "Antonio Raymondi"
       },
       "geometry": {
         "type": "Polygon",
@@ -663,10 +663,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0205",
-        "COUNT": 15,
-        "ha": 312887.53,
-        "Provincia": "Bolognesi"
+        "FIRST_IDPR": "0401",
+        "COUNT": 29,
+        "ha": 962246.88,
+        "Provincia": "Arequipa"
       },
       "geometry": {
         "type": "Polygon",
@@ -1437,10 +1437,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0206",
-        "COUNT": 11,
-        "ha": 81429.39,
-        "Provincia": "Carhuaz"
+        "FIRST_IDPR": "1302",
+        "COUNT": 8,
+        "ha": 265013.61,
+        "Provincia": "Ascope"
       },
       "geometry": {
         "type": "Polygon",
@@ -1485,10 +1485,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0207",
-        "COUNT": 3,
-        "ha": 62742.68,
-        "Provincia": "Carlos Fermín Fitzcarrald"
+        "FIRST_IDPR": "0204",
+        "COUNT": 2,
+        "ha": 52824.62,
+        "Provincia": "Asunción"
       },
       "geometry": {
         "type": "Polygon",
@@ -1513,10 +1513,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0208",
+        "FIRST_IDPR": "2502",
         "COUNT": 4,
-        "ha": 227590.8,
-        "Provincia": "Casma"
+        "ha": 3904975.48,
+        "Provincia": "Atalaya"
       },
       "geometry": {
         "type": "Polygon",
@@ -1680,10 +1680,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0209",
-        "COUNT": 7,
-        "ha": 101683.94,
-        "Provincia": "Corongo"
+        "FIRST_IDPR": "2002",
+        "COUNT": 10,
+        "ha": 522900.14,
+        "Provincia": "Ayabaca"
       },
       "geometry": {
         "type": "Polygon",
@@ -1739,10 +1739,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0210",
-        "COUNT": 16,
-        "ha": 279161.61,
-        "Provincia": "Huari"
+        "FIRST_IDPR": "0304",
+        "COUNT": 17,
+        "ha": 412862.54,
+        "Provincia": "Aymaraes"
       },
       "geometry": {
         "type": "Polygon",
@@ -1946,10 +1946,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0211",
-        "COUNT": 5,
-        "ha": 392513.36,
-        "Provincia": "Huarmey"
+        "FIRST_IDPR": "2102",
+        "COUNT": 15,
+        "ha": 512576.43,
+        "Provincia": "Azángaro"
       },
       "geometry": {
         "type": "Polygon",
@@ -2800,10 +2800,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0212",
-        "COUNT": 10,
-        "ha": 229027.78,
-        "Provincia": "Huaylas"
+        "FIRST_IDPR": "0102",
+        "COUNT": 6,
+        "ha": 573354.36,
+        "Provincia": "Bagua"
       },
       "geometry": {
         "type": "Polygon",
@@ -2866,10 +2866,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0213",
-        "COUNT": 8,
-        "ha": 73673.62,
-        "Provincia": "Mariscal Luzuriaga"
+        "FIRST_IDPR": "1502",
+        "COUNT": 5,
+        "ha": 137025.08,
+        "Provincia": "Barranca"
       },
       "geometry": {
         "type": "Polygon",
@@ -2915,10 +2915,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0214",
-        "COUNT": 10,
-        "ha": 193492.38,
-        "Provincia": "Ocros"
+        "FIRST_IDPR": "2202",
+        "COUNT": 6,
+        "ha": 806890.53,
+        "Provincia": "Bellavista"
       },
       "geometry": {
         "type": "Polygon",
@@ -2999,10 +2999,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0215",
-        "COUNT": 11,
-        "ha": 207048.35,
-        "Provincia": "Pallasca"
+        "FIRST_IDPR": "1303",
+        "COUNT": 6,
+        "ha": 173630.96,
+        "Provincia": "Bolívar"
       },
       "geometry": {
         "type": "Polygon",
@@ -3043,10 +3043,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0216",
-        "COUNT": 4,
-        "ha": 92220.63,
-        "Provincia": "Pomabamba"
+        "FIRST_IDPR": "0205",
+        "COUNT": 15,
+        "ha": 312887.53,
+        "Provincia": "Bolognesi"
       },
       "geometry": {
         "type": "Polygon",
@@ -3107,10 +3107,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0217",
-        "COUNT": 10,
-        "ha": 232861.42,
-        "Provincia": "Recuay"
+        "FIRST_IDPR": "0103",
+        "COUNT": 12,
+        "ha": 283842.08,
+        "Provincia": "Bongará"
       },
       "geometry": {
         "type": "Polygon",
@@ -3155,10 +3155,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0218",
-        "COUNT": 9,
-        "ha": 398234.45,
-        "Provincia": "Santa"
+        "FIRST_IDPR": "0602",
+        "COUNT": 4,
+        "ha": 178954.56,
+        "Provincia": "Cajabamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -3200,10 +3200,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0219",
-        "COUNT": 10,
-        "ha": 145769.4,
-        "Provincia": "Sihuas"
+        "FIRST_IDPR": "0601",
+        "COUNT": 12,
+        "ha": 298330.88,
+        "Provincia": "Cajamarca"
       },
       "geometry": {
         "type": "Polygon",
@@ -3249,10 +3249,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0220",
-        "COUNT": 8,
-        "ha": 136484.28,
-        "Provincia": "Yungay"
+        "FIRST_IDPR": "1503",
+        "COUNT": 5,
+        "ha": 152718.47,
+        "Provincia": "Cajatambo"
       },
       "geometry": {
         "type": "Polygon",
@@ -3289,10 +3289,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0301",
-        "COUNT": 9,
-        "ha": 345827.34,
-        "Provincia": "Abancay"
+        "FIRST_IDPR": "0804",
+        "COUNT": 8,
+        "ha": 353947.82,
+        "Provincia": "Calca"
       },
       "geometry": {
         "type": "Polygon",
@@ -3341,10 +3341,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0302",
-        "COUNT": 19,
-        "ha": 403553.44,
-        "Provincia": "Andahuaylas"
+        "FIRST_IDPR": "0402",
+        "COUNT": 8,
+        "ha": 399892.4,
+        "Provincia": "Camaná"
       },
       "geometry": {
         "type": "Polygon",
@@ -3367,10 +3367,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0303",
-        "COUNT": 7,
-        "ha": 323079.87,
-        "Provincia": "Antabamba"
+        "FIRST_IDPR": "0805",
+        "COUNT": 8,
+        "ha": 208744.2,
+        "Provincia": "Canas"
       },
       "geometry": {
         "type": "Polygon",
@@ -3494,10 +3494,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0304",
-        "COUNT": 17,
-        "ha": 412862.54,
-        "Provincia": "Aymaraes"
+        "FIRST_IDPR": "0806",
+        "COUNT": 8,
+        "ha": 396207.02,
+        "Provincia": "Canchis"
       },
       "geometry": {
         "type": "Polygon",
@@ -4295,10 +4295,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0305",
+        "FIRST_IDPR": "2302",
         "COUNT": 6,
-        "ha": 262307.48,
-        "Provincia": "Cotabambas"
+        "ha": 232161.57,
+        "Provincia": "Candarave"
       },
       "geometry": {
         "type": "Polygon",
@@ -4661,10 +4661,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0306",
-        "COUNT": 8,
-        "ha": 150788.01,
-        "Provincia": "Chincheros"
+        "FIRST_IDPR": "1505",
+        "COUNT": 16,
+        "ha": 451700.76,
+        "Provincia": "Cañete"
       },
       "geometry": {
         "type": "Polygon",
@@ -4705,10 +4705,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0307",
-        "COUNT": 14,
-        "ha": 212996.49,
-        "Provincia": "Grau"
+        "FIRST_IDPR": "0502",
+        "COUNT": 6,
+        "ha": 186904.19,
+        "Provincia": "Cangallo"
       },
       "geometry": {
         "type": "Polygon",
@@ -4751,10 +4751,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0401",
-        "COUNT": 29,
-        "ha": 962246.88,
-        "Provincia": "Arequipa"
+        "FIRST_IDPR": "1504",
+        "COUNT": 7,
+        "ha": 169044.43,
+        "Provincia": "Canta"
       },
       "geometry": {
         "type": "Polygon",
@@ -4795,10 +4795,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0402",
-        "COUNT": 8,
-        "ha": 399892.4,
-        "Provincia": "Camaná"
+        "FIRST_IDPR": "2103",
+        "COUNT": 10,
+        "ha": 1179106.04,
+        "Provincia": "Carabaya"
       },
       "geometry": {
         "type": "Polygon",
@@ -5107,10 +5107,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0404",
-        "COUNT": 14,
-        "ha": 692911.43,
-        "Provincia": "Castilla"
+        "FIRST_IDPR": "0206",
+        "COUNT": 11,
+        "ha": 81429.39,
+        "Provincia": "Carhuaz"
       },
       "geometry": {
         "type": "Polygon",
@@ -5378,10 +5378,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0405",
-        "COUNT": 20,
-        "ha": 1410845.91,
-        "Provincia": "Caylloma"
+        "FIRST_IDPR": "0207",
+        "COUNT": 3,
+        "ha": 62742.68,
+        "Provincia": "Carlos Fermín Fitzcarrald"
       },
       "geometry": {
         "type": "Polygon",
@@ -5418,10 +5418,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0406",
-        "COUNT": 8,
-        "ha": 685288.24,
-        "Provincia": "Condesuyos"
+        "FIRST_IDPR": "0208",
+        "COUNT": 4,
+        "ha": 227590.8,
+        "Provincia": "Casma"
       },
       "geometry": {
         "type": "Polygon",
@@ -5448,10 +5448,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0407",
-        "COUNT": 6,
-        "ha": 384689.99,
-        "Provincia": "Islay"
+        "FIRST_IDPR": "0404",
+        "COUNT": 14,
+        "ha": 692911.43,
+        "Provincia": "Castilla"
       },
       "geometry": {
         "type": "Polygon",
@@ -5493,10 +5493,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0408",
-        "COUNT": 11,
-        "ha": 489566.27,
-        "Provincia": "La Uniòn"
+        "FIRST_IDPR": "0904",
+        "COUNT": 13,
+        "ha": 395269.61,
+        "Provincia": "Castrovirreyna"
       },
       "geometry": {
         "type": "Polygon",
@@ -5567,10 +5567,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0501",
-        "COUNT": 15,
-        "ha": 295389.88,
-        "Provincia": "Huamanga"
+        "FIRST_IDPR": "0405",
+        "COUNT": 20,
+        "ha": 1410845.91,
+        "Provincia": "Caylloma"
       },
       "geometry": {
         "type": "Polygon",
@@ -5625,10 +5625,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0502",
-        "COUNT": 6,
-        "ha": 186904.19,
-        "Provincia": "Cangallo"
+        "FIRST_IDPR": "0603",
+        "COUNT": 12,
+        "ha": 265469.01,
+        "Provincia": "Celendín"
       },
       "geometry": {
         "type": "Polygon",
@@ -5983,10 +5983,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0503",
-        "COUNT": 4,
-        "ha": 283707.92,
-        "Provincia": "Huanca Sancos"
+        "FIRST_IDPR": "0101",
+        "COUNT": 21,
+        "ha": 298037.23,
+        "Provincia": "Chachapoyas"
       },
       "geometry": {
         "type": "Polygon",
@@ -6025,10 +6025,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0504",
-        "COUNT": 8,
-        "ha": 385929.94,
-        "Provincia": "Huanta"
+        "FIRST_IDPR": "1203",
+        "COUNT": 6,
+        "ha": 467686.18,
+        "Provincia": "Chanchamayo"
       },
       "geometry": {
         "type": "Polygon",
@@ -6082,10 +6082,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0505",
-        "COUNT": 8,
-        "ha": 430659.41,
-        "Provincia": "La Mar"
+        "FIRST_IDPR": "1304",
+        "COUNT": 3,
+        "ha": 115282.33,
+        "Provincia": "Chepén"
       },
       "geometry": {
         "type": "Polygon",
@@ -6137,10 +6137,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0506",
-        "COUNT": 21,
-        "ha": 1446494.22,
-        "Provincia": "Lucanas"
+        "FIRST_IDPR": "1401",
+        "COUNT": 20,
+        "ha": 334599.05,
+        "Provincia": "Chiclayo"
       },
       "geometry": {
         "type": "Polygon",
@@ -6168,10 +6168,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0507",
-        "COUNT": 8,
-        "ha": 587306.99,
-        "Provincia": "Parinacochas"
+        "FIRST_IDPR": "1102",
+        "COUNT": 11,
+        "ha": 290803.74,
+        "Provincia": "Chincha"
       },
       "geometry": {
         "type": "Polygon",
@@ -6217,10 +6217,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0508",
-        "COUNT": 10,
-        "ha": 208321.47,
-        "Provincia": "Pàucar del Sara Sara"
+        "FIRST_IDPR": "0306",
+        "COUNT": 8,
+        "ha": 150788.01,
+        "Provincia": "Chincheros"
       },
       "geometry": {
         "type": "Polygon",
@@ -6264,10 +6264,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0509",
-        "COUNT": 11,
-        "ha": 178432.95,
-        "Provincia": "Sucre"
+        "FIRST_IDPR": "0604",
+        "COUNT": 19,
+        "ha": 377270.64,
+        "Provincia": "Chota"
       },
       "geometry": {
         "type": "Polygon",
@@ -6300,10 +6300,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0510",
-        "COUNT": 1,
-        "ha": 26507.77,
-        "Provincia": "Víctor Fajardo"
+        "FIRST_IDPR": "2104",
+        "COUNT": 7,
+        "ha": 397892.17,
+        "Provincia": "Chucuito"
       },
       "geometry": {
         "type": "Polygon",
@@ -6367,10 +6367,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0510",
-        "COUNT": 11,
-        "ha": 199897.77,
-        "Provincia": "Víctor Fajardo"
+        "FIRST_IDPR": "0807",
+        "COUNT": 8,
+        "ha": 535593.2,
+        "Provincia": "Chumbivilcas"
       },
       "geometry": {
         "type": "Polygon",
@@ -6428,10 +6428,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0511",
-        "COUNT": 8,
-        "ha": 120829.29,
-        "Provincia": "Vilcas Huamán"
+        "FIRST_IDPR": "1209",
+        "COUNT": 9,
+        "ha": 116365.68,
+        "Provincia": "Chupaca"
       },
       "geometry": {
         "type": "Polygon",
@@ -6682,10 +6682,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0601",
-        "COUNT": 12,
-        "ha": 298330.88,
-        "Provincia": "Cajamarca"
+        "FIRST_IDPR": "0905",
+        "COUNT": 10,
+        "ha": 121798.44,
+        "Provincia": "Churcampa"
       },
       "geometry": {
         "type": "Polygon",
@@ -6718,10 +6718,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0602",
-        "COUNT": 4,
-        "ha": 178954.56,
-        "Provincia": "Cajabamba"
+        "FIRST_IDPR": "1202",
+        "COUNT": 15,
+        "ha": 224488.04,
+        "Provincia": "Concepción"
       },
       "geometry": {
         "type": "Polygon",
@@ -6755,10 +6755,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0603",
-        "COUNT": 12,
-        "ha": 265469.01,
-        "Provincia": "Celendín"
+        "FIRST_IDPR": "0406",
+        "COUNT": 8,
+        "ha": 685288.24,
+        "Provincia": "Condesuyos"
       },
       "geometry": {
         "type": "Polygon",
@@ -6819,10 +6819,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0604",
-        "COUNT": 19,
-        "ha": 377270.64,
-        "Provincia": "Chota"
+        "FIRST_IDPR": "0104",
+        "COUNT": 3,
+        "ha": 1792723.85,
+        "Provincia": "Condorcanqui"
       },
       "geometry": {
         "type": "Polygon",
@@ -6916,10 +6916,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0605",
-        "COUNT": 8,
-        "ha": 207828.8,
-        "Provincia": "Contumazá"
+        "FIRST_IDPR": "2402",
+        "COUNT": 3,
+        "ha": 214653.62,
+        "Provincia": "Contralmirante Villar"
       },
       "geometry": {
         "type": "Polygon",
@@ -6955,10 +6955,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0606",
-        "COUNT": 15,
-        "ha": 303737.13,
-        "Provincia": "Cutervo"
+        "FIRST_IDPR": "0605",
+        "COUNT": 8,
+        "ha": 207828.8,
+        "Provincia": "Contumazá"
       },
       "geometry": {
         "type": "Polygon",
@@ -6999,10 +6999,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0607",
-        "COUNT": 3,
-        "ha": 78993.24,
-        "Provincia": "Hualgayoc"
+        "FIRST_IDPR": "2501",
+        "COUNT": 7,
+        "ha": 3836958.81,
+        "Provincia": "Coronel Portillo"
       },
       "geometry": {
         "type": "Polygon",
@@ -7160,10 +7160,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0608",
-        "COUNT": 12,
-        "ha": 505726.5,
-        "Provincia": "Jaén"
+        "FIRST_IDPR": "0209",
+        "COUNT": 7,
+        "ha": 101683.94,
+        "Provincia": "Corongo"
       },
       "geometry": {
         "type": "Polygon",
@@ -7195,10 +7195,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0609",
-        "COUNT": 7,
-        "ha": 492734.93,
-        "Provincia": "San Ignacio"
+        "FIRST_IDPR": "0305",
+        "COUNT": 6,
+        "ha": 262307.48,
+        "Provincia": "Cotabambas"
       },
       "geometry": {
         "type": "Polygon",
@@ -7246,10 +7246,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0610",
-        "COUNT": 7,
-        "ha": 135538.27,
-        "Provincia": "San Marcos"
+        "FIRST_IDPR": "0801",
+        "COUNT": 8,
+        "ha": 53018.37,
+        "Provincia": "Cusco"
       },
       "geometry": {
         "type": "Polygon",
@@ -7280,10 +7280,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0611",
-        "COUNT": 13,
-        "ha": 254550.24,
-        "Provincia": "San Miguel"
+        "FIRST_IDPR": "0606",
+        "COUNT": 15,
+        "ha": 303737.13,
+        "Provincia": "Cutervo"
       },
       "geometry": {
         "type": "Polygon",
@@ -7333,10 +7333,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0612",
-        "COUNT": 4,
-        "ha": 66711.2,
-        "Provincia": "San Pablo"
+        "FIRST_IDPR": "1902",
+        "COUNT": 8,
+        "ha": 152075.22,
+        "Provincia": "Daniel Alcides Carrión"
       },
       "geometry": {
         "type": "Polygon",
@@ -7369,10 +7369,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0613",
-        "COUNT": 11,
-        "ha": 138620.16,
-        "Provincia": "Santa Cruz"
+        "FIRST_IDPR": "1607",
+        "COUNT": 6,
+        "ha": 4766879.45,
+        "Provincia": "Datem del Marañón"
       },
       "geometry": {
         "type": "Polygon",
@@ -7498,10 +7498,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0701",
-        "COUNT": 6,
-        "ha": 14140.95,
-        "Provincia": "Prov. Const. del Callao"
+        "FIRST_IDPR": "1003",
+        "COUNT": 9,
+        "ha": 145944.17,
+        "Provincia": "Dos de Mayo"
       },
       "geometry": {
         "type": "Polygon",
@@ -7547,10 +7547,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0801",
-        "COUNT": 8,
-        "ha": 53018.37,
-        "Provincia": "Cusco"
+        "FIRST_IDPR": "2105",
+        "COUNT": 5,
+        "ha": 568988.34,
+        "Provincia": "El Collao"
       },
       "geometry": {
         "type": "Polygon",
@@ -7843,10 +7843,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0802",
-        "COUNT": 7,
-        "ha": 93285.81,
-        "Provincia": "Acomayo"
+        "FIRST_IDPR": "2203",
+        "COUNT": 5,
+        "ha": 129316.59,
+        "Provincia": "El Dorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -7882,10 +7882,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0803",
-        "COUNT": 9,
-        "ha": 194375.59,
-        "Provincia": "Anta"
+        "FIRST_IDPR": "0808",
+        "COUNT": 8,
+        "ha": 524984.68,
+        "Provincia": "Espinar"
       },
       "geometry": {
         "type": "Polygon",
@@ -8050,10 +8050,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0804",
-        "COUNT": 8,
-        "ha": 353947.82,
-        "Provincia": "Calca"
+        "FIRST_IDPR": "1402",
+        "COUNT": 6,
+        "ha": 158344.06,
+        "Provincia": "Ferreñafe"
       },
       "geometry": {
         "type": "Polygon",
@@ -8100,10 +8100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0805",
-        "COUNT": 8,
-        "ha": 208744.2,
-        "Provincia": "Canas"
+        "FIRST_IDPR": "1802",
+        "COUNT": 11,
+        "ha": 575726.93,
+        "Provincia": "General Sánchez Cerro"
       },
       "geometry": {
         "type": "Polygon",
@@ -8492,10 +8492,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0806",
-        "COUNT": 8,
-        "ha": 396207.02,
-        "Provincia": "Canchis"
+        "FIRST_IDPR": "1311",
+        "COUNT": 4,
+        "ha": 129246.17,
+        "Provincia": "Gran Chimú"
       },
       "geometry": {
         "type": "Polygon",
@@ -8535,10 +8535,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0807",
-        "COUNT": 8,
-        "ha": 535593.2,
-        "Provincia": "Chumbivilcas"
+        "FIRST_IDPR": "0307",
+        "COUNT": 14,
+        "ha": 212996.49,
+        "Provincia": "Grau"
       },
       "geometry": {
         "type": "Polygon",
@@ -8582,10 +8582,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0808",
-        "COUNT": 8,
-        "ha": 524984.68,
-        "Provincia": "Espinar"
+        "FIRST_IDPR": "1004",
+        "COUNT": 4,
+        "ha": 170377.69,
+        "Provincia": "Huacaybamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -8628,10 +8628,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0809",
-        "COUNT": 10,
-        "ha": 3188238.47,
-        "Provincia": "La Convención"
+        "FIRST_IDPR": "0607",
+        "COUNT": 3,
+        "ha": 78993.24,
+        "Provincia": "Hualgayoc"
       },
       "geometry": {
         "type": "Polygon",
@@ -8663,10 +8663,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0810",
-        "COUNT": 9,
-        "ha": 197018.35,
-        "Provincia": "Paruro"
+        "FIRST_IDPR": "2204",
+        "COUNT": 6,
+        "ha": 241703.4,
+        "Provincia": "Huallaga"
       },
       "geometry": {
         "type": "Polygon",
@@ -8710,10 +8710,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0811",
-        "COUNT": 6,
-        "ha": 579946.98,
-        "Provincia": "Paucartambo"
+        "FIRST_IDPR": "1005",
+        "COUNT": 11,
+        "ha": 315852.74,
+        "Provincia": "Huamalíes"
       },
       "geometry": {
         "type": "Polygon",
@@ -8767,10 +8767,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0812",
-        "COUNT": 12,
-        "ha": 737522.13,
-        "Provincia": "Quispicanchi"
+        "FIRST_IDPR": "0501",
+        "COUNT": 15,
+        "ha": 295389.88,
+        "Provincia": "Huamanga"
       },
       "geometry": {
         "type": "Polygon",
@@ -8823,10 +8823,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0813",
-        "COUNT": 7,
-        "ha": 144731.63,
-        "Provincia": "Urubamba"
+        "FIRST_IDPR": "0503",
+        "COUNT": 4,
+        "ha": 283707.92,
+        "Provincia": "Huanca Sancos"
       },
       "geometry": {
         "type": "Polygon",
@@ -8869,10 +8869,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0901",
-        "COUNT": 19,
-        "ha": 419358.19,
-        "Provincia": "Huancavelica"
+        "FIRST_IDPR": "2003",
+        "COUNT": 8,
+        "ha": 429652.11,
+        "Provincia": "Huancabamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -8938,10 +8938,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0902",
+        "FIRST_IDPR": "2106",
         "COUNT": 8,
-        "ha": 92636.74,
-        "Provincia": "Acobamba"
+        "ha": 284717.8,
+        "Provincia": "Huancané"
       },
       "geometry": {
         "type": "Polygon",
@@ -9058,10 +9058,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0903",
-        "COUNT": 12,
-        "ha": 194061.71,
-        "Provincia": "Angaraes"
+        "FIRST_IDPR": "0901",
+        "COUNT": 19,
+        "ha": 419358.19,
+        "Provincia": "Huancavelica"
       },
       "geometry": {
         "type": "Polygon",
@@ -9121,10 +9121,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0904",
-        "COUNT": 13,
-        "ha": 395269.61,
-        "Provincia": "Castrovirreyna"
+        "FIRST_IDPR": "1201",
+        "COUNT": 28,
+        "ha": 373484.08,
+        "Provincia": "Huancayo"
       },
       "geometry": {
         "type": "Polygon",
@@ -9192,10 +9192,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0905",
-        "COUNT": 10,
-        "ha": 121798.44,
-        "Provincia": "Churcampa"
+        "FIRST_IDPR": "0504",
+        "COUNT": 8,
+        "ha": 385929.94,
+        "Provincia": "Huanta"
       },
       "geometry": {
         "type": "Polygon",
@@ -9247,10 +9247,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0906",
-        "COUNT": 16,
-        "ha": 646453.18,
-        "Provincia": "Huaytará"
+        "FIRST_IDPR": "1001",
+        "COUNT": 11,
+        "ha": 407098.5,
+        "Provincia": "Huánuco"
       },
       "geometry": {
         "type": "Polygon",
@@ -9306,10 +9306,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "0907",
-        "COUNT": 16,
-        "ha": 336926.01,
-        "Provincia": "Tayacaja"
+        "FIRST_IDPR": "1506",
+        "COUNT": 12,
+        "ha": 365745.22,
+        "Provincia": "Huaral"
       },
       "geometry": {
         "type": "Polygon",
@@ -9362,10 +9362,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1001",
-        "COUNT": 11,
-        "ha": 407098.5,
-        "Provincia": "Huánuco"
+        "FIRST_IDPR": "0201",
+        "COUNT": 12,
+        "ha": 251023.89,
+        "Provincia": "Huaraz"
       },
       "geometry": {
         "type": "Polygon",
@@ -9408,10 +9408,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1002",
-        "COUNT": 8,
-        "ha": 157735.85,
-        "Provincia": "Ambo"
+        "FIRST_IDPR": "0210",
+        "COUNT": 16,
+        "ha": 279161.61,
+        "Provincia": "Huari"
       },
       "geometry": {
         "type": "Polygon",
@@ -9459,10 +9459,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1003",
-        "COUNT": 9,
-        "ha": 145944.17,
-        "Provincia": "Dos de Mayo"
+        "FIRST_IDPR": "0211",
+        "COUNT": 5,
+        "ha": 392513.36,
+        "Provincia": "Huarmey"
       },
       "geometry": {
         "type": "Polygon",
@@ -9514,10 +9514,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1004",
-        "COUNT": 4,
-        "ha": 170377.69,
-        "Provincia": "Huacaybamba"
+        "FIRST_IDPR": "1507",
+        "COUNT": 32,
+        "ha": 573400.84,
+        "Provincia": "Huarochirí"
       },
       "geometry": {
         "type": "Polygon",
@@ -9582,10 +9582,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1005",
-        "COUNT": 11,
-        "ha": 315852.74,
-        "Provincia": "Huamalíes"
+        "FIRST_IDPR": "1508",
+        "COUNT": 12,
+        "ha": 492694.13,
+        "Provincia": "Huaura"
       },
       "geometry": {
         "type": "Polygon",
@@ -9657,10 +9657,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1006",
-        "COUNT": 6,
-        "ha": 491717.7,
-        "Provincia": "Leoncio Prado"
+        "FIRST_IDPR": "0212",
+        "COUNT": 10,
+        "ha": 229027.78,
+        "Provincia": "Huaylas"
       },
       "geometry": {
         "type": "Polygon",
@@ -9702,10 +9702,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1007",
-        "COUNT": 3,
-        "ha": 494965.97,
-        "Provincia": "Marañón"
+        "FIRST_IDPR": "0906",
+        "COUNT": 16,
+        "ha": 646453.18,
+        "Provincia": "Huaytará"
       },
       "geometry": {
         "type": "Polygon",
@@ -9767,10 +9767,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1008",
-        "COUNT": 4,
-        "ha": 263590.9,
-        "Provincia": "Pachitea"
+        "FIRST_IDPR": "1101",
+        "COUNT": 14,
+        "ha": 781989.44,
+        "Provincia": "Ica"
       },
       "geometry": {
         "type": "Polygon",
@@ -9830,10 +9830,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1009",
-        "COUNT": 5,
-        "ha": 1004069.79,
-        "Provincia": "Puerto Inca"
+        "FIRST_IDPR": "1803",
+        "COUNT": 3,
+        "ha": 136344.77,
+        "Provincia": "Ilo"
       },
       "geometry": {
         "type": "Polygon",
@@ -9868,10 +9868,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1010",
-        "COUNT": 7,
-        "ha": 192235.85,
-        "Provincia": "Lauricocha"
+        "FIRST_IDPR": "0407",
+        "COUNT": 6,
+        "ha": 384689.99,
+        "Provincia": "Islay"
       },
       "geometry": {
         "type": "Polygon",
@@ -10063,10 +10063,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1011",
-        "COUNT": 8,
-        "ha": 76463.43,
-        "Provincia": "Yarowilca"
+        "FIRST_IDPR": "0608",
+        "COUNT": 12,
+        "ha": 505726.5,
+        "Provincia": "Jaén"
       },
       "geometry": {
         "type": "Polygon",
@@ -10122,10 +10122,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1101",
-        "COUNT": 14,
-        "ha": 781989.44,
-        "Provincia": "Ica"
+        "FIRST_IDPR": "1204",
+        "COUNT": 34,
+        "ha": 435419.92,
+        "Provincia": "Jauja"
       },
       "geometry": {
         "type": "Polygon",
@@ -10182,10 +10182,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1102",
-        "COUNT": 11,
-        "ha": 290803.74,
-        "Provincia": "Chincha"
+        "FIRST_IDPR": "2303",
+        "COUNT": 3,
+        "ha": 274085.97,
+        "Provincia": "Jorge Basadre"
       },
       "geometry": {
         "type": "Polygon",
@@ -10230,10 +10230,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1103",
-        "COUNT": 5,
-        "ha": 518745.16,
-        "Provincia": "Nasca"
+        "FIRST_IDPR": "1305",
+        "COUNT": 4,
+        "ha": 111242.41,
+        "Provincia": "Julcán"
       },
       "geometry": {
         "type": "Polygon",
@@ -10267,10 +10267,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1104",
-        "COUNT": 5,
-        "ha": 121702.25,
-        "Provincia": "Palpa"
+        "FIRST_IDPR": "1205",
+        "COUNT": 4,
+        "ha": 237390.64,
+        "Provincia": "Junín"
       },
       "geometry": {
         "type": "Polygon",
@@ -11540,10 +11540,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1105",
-        "COUNT": 8,
-        "ha": 394836.06,
-        "Provincia": "Pisco"
+        "FIRST_IDPR": "0809",
+        "COUNT": 10,
+        "ha": 3188238.47,
+        "Provincia": "La Convención"
       },
       "geometry": {
         "type": "Polygon",
@@ -11673,10 +11673,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1201",
-        "COUNT": 28,
-        "ha": 373484.08,
-        "Provincia": "Huancayo"
+        "FIRST_IDPR": "0505",
+        "COUNT": 8,
+        "ha": 430659.41,
+        "Provincia": "La Mar"
       },
       "geometry": {
         "type": "Polygon",
@@ -11728,10 +11728,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1202",
-        "COUNT": 15,
-        "ha": 224488.04,
-        "Provincia": "Concepción"
+        "FIRST_IDPR": "0408",
+        "COUNT": 11,
+        "ha": 489566.27,
+        "Provincia": "La Uniòn"
       },
       "geometry": {
         "type": "Polygon",
@@ -11834,10 +11834,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1203",
-        "COUNT": 6,
-        "ha": 467686.18,
-        "Provincia": "Chanchamayo"
+        "FIRST_IDPR": "2205",
+        "COUNT": 11,
+        "ha": 467896.38,
+        "Provincia": "Lamas"
       },
       "geometry": {
         "type": "Polygon",
@@ -11898,10 +11898,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1204",
-        "COUNT": 34,
-        "ha": 435419.92,
-        "Provincia": "Jauja"
+        "FIRST_IDPR": "1403",
+        "COUNT": 12,
+        "ha": 941287.69,
+        "Provincia": "Lambayeque"
       },
       "geometry": {
         "type": "Polygon",
@@ -11957,10 +11957,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1205",
-        "COUNT": 4,
-        "ha": 237390.64,
-        "Provincia": "Junín"
+        "FIRST_IDPR": "2107",
+        "COUNT": 10,
+        "ha": 574465.43,
+        "Provincia": "Lampa"
       },
       "geometry": {
         "type": "Polygon",
@@ -12171,10 +12171,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1206",
-        "COUNT": 8,
-        "ha": 1914201.51,
-        "Provincia": "Satipo"
+        "FIRST_IDPR": "1010",
+        "COUNT": 7,
+        "ha": 192235.85,
+        "Provincia": "Lauricocha"
       },
       "geometry": {
         "type": "Polygon",
@@ -12213,10 +12213,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1207",
-        "COUNT": 9,
-        "ha": 267058.18,
-        "Provincia": "Tarma"
+        "FIRST_IDPR": "1006",
+        "COUNT": 6,
+        "ha": 491717.7,
+        "Provincia": "Leoncio Prado"
       },
       "geometry": {
         "type": "Polygon",
@@ -12290,10 +12290,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1208",
-        "COUNT": 10,
-        "ha": 363635,
-        "Provincia": "Yauli"
+        "FIRST_IDPR": "1501",
+        "COUNT": 43,
+        "ha": 269974,
+        "Provincia": "Lima"
       },
       "geometry": {
         "type": "Polygon",
@@ -12351,10 +12351,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1209",
-        "COUNT": 9,
-        "ha": 116365.68,
-        "Provincia": "Chupaca"
+        "FIRST_IDPR": "1603",
+        "COUNT": 5,
+        "ha": 6854883.45,
+        "Provincia": "Loreto"
       },
       "geometry": {
         "type": "Polygon",
@@ -12513,10 +12513,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1301",
-        "COUNT": 11,
-        "ha": 178395.63,
-        "Provincia": "Trujillo"
+        "FIRST_IDPR": "0506",
+        "COUNT": 21,
+        "ha": 1446494.22,
+        "Provincia": "Lucanas"
       },
       "geometry": {
         "type": "Polygon",
@@ -13001,10 +13001,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1302",
-        "COUNT": 8,
-        "ha": 265013.61,
-        "Provincia": "Ascope"
+        "FIRST_IDPR": "0105",
+        "COUNT": 23,
+        "ha": 324512.97,
+        "Provincia": "Luya"
       },
       "geometry": {
         "type": "Polygon",
@@ -13045,10 +13045,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1303",
-        "COUNT": 6,
-        "ha": 173630.96,
-        "Provincia": "Bolívar"
+        "FIRST_IDPR": "1702",
+        "COUNT": 4,
+        "ha": 2881533.61,
+        "Provincia": "Manu"
       },
       "geometry": {
         "type": "Polygon",
@@ -13166,10 +13166,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1304",
+        "FIRST_IDPR": "1007",
         "COUNT": 3,
-        "ha": 115282.33,
-        "Provincia": "Chepén"
+        "ha": 494965.97,
+        "Provincia": "Marañón"
       },
       "geometry": {
         "type": "Polygon",
@@ -13228,10 +13228,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1305",
-        "COUNT": 4,
-        "ha": 111242.41,
-        "Provincia": "Julcán"
+        "FIRST_IDPR": "2206",
+        "COUNT": 5,
+        "ha": 1426188.17,
+        "Provincia": "Mariscal Cáceres"
       },
       "geometry": {
         "type": "Polygon",
@@ -13319,10 +13319,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1306",
-        "COUNT": 10,
-        "ha": 208386.56,
-        "Provincia": "Otuzco"
+        "FIRST_IDPR": "0213",
+        "COUNT": 8,
+        "ha": 73673.62,
+        "Provincia": "Mariscal Luzuriaga"
       },
       "geometry": {
         "type": "Polygon",
@@ -13353,10 +13353,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1307",
-        "COUNT": 5,
-        "ha": 111825.47,
-        "Provincia": "Pacasmayo"
+        "FIRST_IDPR": "1801",
+        "COUNT": 6,
+        "ha": 868659.27,
+        "Provincia": "Mariscal Nieto"
       },
       "geometry": {
         "type": "Polygon",
@@ -13469,10 +13469,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1308",
-        "COUNT": 13,
-        "ha": 399548,
-        "Provincia": "Pataz"
+        "FIRST_IDPR": "1604",
+        "COUNT": 4,
+        "ha": 3796987.89,
+        "Provincia": "Mariscal Ramón Castilla"
       },
       "geometry": {
         "type": "Polygon",
@@ -13633,10 +13633,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1309",
-        "COUNT": 8,
-        "ha": 250187.38,
-        "Provincia": "Sánchez Carrión"
+        "FIRST_IDPR": "1601",
+        "COUNT": 13,
+        "ha": 12170565.8,
+        "Provincia": "Maynas"
       },
       "geometry": {
         "type": "Polygon",
@@ -13921,10 +13921,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1310",
-        "COUNT": 8,
-        "ha": 267531.57,
-        "Provincia": "Santiago de Chuco"
+        "FIRST_IDPR": "2108",
+        "COUNT": 9,
+        "ha": 657194.75,
+        "Provincia": "Melgar"
       },
       "geometry": {
         "type": "Polygon",
@@ -14276,10 +14276,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1311",
+        "FIRST_IDPR": "2109",
         "COUNT": 4,
-        "ha": 129246.17,
-        "Provincia": "Gran Chimú"
+        "ha": 103544.16,
+        "Provincia": "Moho"
       },
       "geometry": {
         "type": "Polygon",
@@ -14311,10 +14311,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1312",
-        "COUNT": 3,
-        "ha": 319306.8,
-        "Provincia": "Virú"
+        "FIRST_IDPR": "2004",
+        "COUNT": 10,
+        "ha": 384324.53,
+        "Provincia": "Morropón"
       },
       "geometry": {
         "type": "Polygon",
@@ -14368,10 +14368,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1401",
-        "COUNT": 20,
-        "ha": 334599.05,
-        "Provincia": "Chiclayo"
+        "FIRST_IDPR": "2201",
+        "COUNT": 6,
+        "ha": 392696.46,
+        "Provincia": "Moyobamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -14435,10 +14435,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1402",
-        "COUNT": 6,
-        "ha": 158344.06,
-        "Provincia": "Ferreñafe"
+        "FIRST_IDPR": "1103",
+        "COUNT": 5,
+        "ha": 518745.16,
+        "Provincia": "Nasca"
       },
       "geometry": {
         "type": "Polygon",
@@ -14496,10 +14496,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1403",
-        "COUNT": 12,
-        "ha": 941287.69,
-        "Provincia": "Lambayeque"
+        "FIRST_IDPR": "0214",
+        "COUNT": 10,
+        "ha": 193492.38,
+        "Provincia": "Ocros"
       },
       "geometry": {
         "type": "Polygon",
@@ -14538,10 +14538,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1501",
-        "COUNT": 43,
-        "ha": 269974,
-        "Provincia": "Lima"
+        "FIRST_IDPR": "1306",
+        "COUNT": 10,
+        "ha": 208386.56,
+        "Provincia": "Otuzco"
       },
       "geometry": {
         "type": "Polygon",
@@ -14587,10 +14587,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1502",
-        "COUNT": 5,
-        "ha": 137025.08,
-        "Provincia": "Barranca"
+        "FIRST_IDPR": "1903",
+        "COUNT": 7,
+        "ha": 1784306.29,
+        "Provincia": "Oxapampa"
       },
       "geometry": {
         "type": "Polygon",
@@ -14816,10 +14816,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1503",
-        "COUNT": 5,
-        "ha": 152718.47,
-        "Provincia": "Cajatambo"
+        "FIRST_IDPR": "1509",
+        "COUNT": 6,
+        "ha": 187645.11,
+        "Provincia": "Oyón"
       },
       "geometry": {
         "type": "Polygon",
@@ -14861,10 +14861,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1504",
-        "COUNT": 7,
-        "ha": 169044.43,
-        "Provincia": "Canta"
+        "FIRST_IDPR": "1307",
+        "COUNT": 5,
+        "ha": 111825.47,
+        "Provincia": "Pacasmayo"
       },
       "geometry": {
         "type": "Polygon",
@@ -14893,10 +14893,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1505",
-        "COUNT": 16,
-        "ha": 451700.76,
-        "Provincia": "Cañete"
+        "FIRST_IDPR": "1008",
+        "COUNT": 4,
+        "ha": 263590.9,
+        "Provincia": "Pachitea"
       },
       "geometry": {
         "type": "Polygon",
@@ -14946,10 +14946,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1506",
-        "COUNT": 12,
-        "ha": 365745.22,
-        "Provincia": "Huaral"
+        "FIRST_IDPR": "2503",
+        "COUNT": 3,
+        "ha": 945016.42,
+        "Provincia": "Padre Abad"
       },
       "geometry": {
         "type": "Polygon",
@@ -15019,10 +15019,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1507",
-        "COUNT": 32,
-        "ha": 573400.84,
-        "Provincia": "Huarochirí"
+        "FIRST_IDPR": "2005",
+        "COUNT": 7,
+        "ha": 170913.6,
+        "Provincia": "Paita"
       },
       "geometry": {
         "type": "Polygon",
@@ -15056,10 +15056,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1508",
-        "COUNT": 12,
-        "ha": 492694.13,
-        "Provincia": "Huaura"
+        "FIRST_IDPR": "0215",
+        "COUNT": 11,
+        "ha": 207048.35,
+        "Provincia": "Pallasca"
       },
       "geometry": {
         "type": "Polygon",
@@ -15104,10 +15104,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1509",
-        "COUNT": 6,
-        "ha": 187645.11,
-        "Provincia": "Oyón"
+        "FIRST_IDPR": "1104",
+        "COUNT": 5,
+        "ha": 121702.25,
+        "Provincia": "Palpa"
       },
       "geometry": {
         "type": "Polygon",
@@ -15146,10 +15146,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1510",
-        "COUNT": 33,
-        "ha": 699051.38,
-        "Provincia": "Yauyos"
+        "FIRST_IDPR": "0507",
+        "COUNT": 8,
+        "ha": 587306.99,
+        "Provincia": "Parinacochas"
       },
       "geometry": {
         "type": "Polygon",
@@ -16236,10 +16236,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1601",
-        "COUNT": 13,
-        "ha": 12170565.8,
-        "Provincia": "Maynas"
+        "FIRST_IDPR": "0810",
+        "COUNT": 9,
+        "ha": 197018.35,
+        "Provincia": "Paruro"
       },
       "geometry": {
         "type": "Polygon",
@@ -16279,10 +16279,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1602",
-        "COUNT": 6,
-        "ha": 1917212.66,
-        "Provincia": "Alto Amazonas"
+        "FIRST_IDPR": "1901",
+        "COUNT": 13,
+        "ha": 475013.38,
+        "Provincia": "Pasco"
       },
       "geometry": {
         "type": "Polygon",
@@ -16900,10 +16900,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1603",
-        "COUNT": 5,
-        "ha": 6854883.45,
-        "Provincia": "Loreto"
+        "FIRST_IDPR": "1308",
+        "COUNT": 13,
+        "ha": 399548,
+        "Provincia": "Pataz"
       },
       "geometry": {
         "type": "Polygon",
@@ -16960,10 +16960,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1604",
-        "COUNT": 4,
-        "ha": 3796987.89,
-        "Provincia": "Mariscal Ramón Castilla"
+        "FIRST_IDPR": "0508",
+        "COUNT": 10,
+        "ha": 208321.47,
+        "Provincia": "Pàucar del Sara Sara"
       },
       "geometry": {
         "type": "Polygon",
@@ -17200,10 +17200,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1605",
-        "COUNT": 11,
-        "ha": 5034385.19,
-        "Provincia": "Requena"
+        "FIRST_IDPR": "0811",
+        "COUNT": 6,
+        "ha": 579946.98,
+        "Provincia": "Paucartambo"
       },
       "geometry": {
         "type": "Polygon",
@@ -17255,10 +17255,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1606",
-        "COUNT": 6,
-        "ha": 2970684.43,
-        "Provincia": "Ucayali"
+        "FIRST_IDPR": "2207",
+        "COUNT": 10,
+        "ha": 210749.92,
+        "Provincia": "Picota"
       },
       "geometry": {
         "type": "Polygon",
@@ -17299,10 +17299,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1607",
-        "COUNT": 6,
-        "ha": 4766879.45,
-        "Provincia": "Datem del Marañón"
+        "FIRST_IDPR": "1105",
+        "COUNT": 8,
+        "ha": 394836.06,
+        "Provincia": "Pisco"
       },
       "geometry": {
         "type": "Polygon",
@@ -17364,10 +17364,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1701",
-        "COUNT": 4,
-        "ha": 3620032.15,
-        "Provincia": "Tambopata"
+        "FIRST_IDPR": "2001",
+        "COUNT": 8,
+        "ha": 598263.38,
+        "Provincia": "Piura"
       },
       "geometry": {
         "type": "Polygon",
@@ -17431,10 +17431,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1702",
-        "COUNT": 4,
-        "ha": 2881533.61,
-        "Provincia": "Manu"
+        "FIRST_IDPR": "2001",
+        "COUNT": 1,
+        "ha": 24287.6,
+        "Provincia": "Piura"
       },
       "geometry": {
         "type": "Polygon",
@@ -17468,10 +17468,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1703",
-        "COUNT": 3,
-        "ha": 2003020.8,
-        "Provincia": "Tahuamanu"
+        "FIRST_IDPR": "0216",
+        "COUNT": 4,
+        "ha": 92220.63,
+        "Provincia": "Pomabamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -17551,10 +17551,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1801",
+        "FIRST_IDPR": "0701",
         "COUNT": 6,
-        "ha": 868659.27,
-        "Provincia": "Mariscal Nieto"
+        "ha": 14140.95,
+        "Provincia": "Prov. Const. del Callao"
       },
       "geometry": {
         "type": "Polygon",
@@ -17577,10 +17577,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1802",
-        "COUNT": 11,
-        "ha": 575726.93,
-        "Provincia": "General Sánchez Cerro"
+        "FIRST_IDPR": "1009",
+        "COUNT": 5,
+        "ha": 1004069.79,
+        "Provincia": "Puerto Inca"
       },
       "geometry": {
         "type": "Polygon",
@@ -18269,10 +18269,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1803",
-        "COUNT": 3,
-        "ha": 136344.77,
-        "Provincia": "Ilo"
+        "FIRST_IDPR": "2101",
+        "COUNT": 15,
+        "ha": 653760.32,
+        "Provincia": "Puno"
       },
       "geometry": {
         "type": "Polygon",
@@ -18358,10 +18358,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1901",
-        "COUNT": 13,
-        "ha": 475013.38,
-        "Provincia": "Pasco"
+        "FIRST_IDPR": "2504",
+        "COUNT": 1,
+        "ha": 1847225.68,
+        "Provincia": "Purús"
       },
       "geometry": {
         "type": "Polygon",
@@ -18441,10 +18441,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1902",
-        "COUNT": 8,
-        "ha": 152075.22,
-        "Provincia": "Daniel Alcides Carrión"
+        "FIRST_IDPR": "0812",
+        "COUNT": 12,
+        "ha": 737522.13,
+        "Provincia": "Quispicanchi"
       },
       "geometry": {
         "type": "Polygon",
@@ -18490,10 +18490,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "1903",
-        "COUNT": 7,
-        "ha": 1784306.29,
-        "Provincia": "Oxapampa"
+        "FIRST_IDPR": "0217",
+        "COUNT": 10,
+        "ha": 232861.42,
+        "Provincia": "Recuay"
       },
       "geometry": {
         "type": "Polygon",
@@ -18638,10 +18638,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2001",
-        "COUNT": 8,
-        "ha": 598263.38,
-        "Provincia": "Piura"
+        "FIRST_IDPR": "1605",
+        "COUNT": 11,
+        "ha": 5034385.19,
+        "Provincia": "Requena"
       },
       "geometry": {
         "type": "Polygon",
@@ -18689,10 +18689,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2001",
-        "COUNT": 1,
-        "ha": 24287.6,
-        "Provincia": "Piura"
+        "FIRST_IDPR": "2208",
+        "COUNT": 9,
+        "ha": 265242.99,
+        "Provincia": "Rioja"
       },
       "geometry": {
         "type": "Polygon",
@@ -18738,10 +18738,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2002",
-        "COUNT": 10,
-        "ha": 522900.14,
-        "Provincia": "Ayabaca"
+        "FIRST_IDPR": "0106",
+        "COUNT": 12,
+        "ha": 258853.07,
+        "Provincia": "Rodríguez de Mendoza"
       },
       "geometry": {
         "type": "Polygon",
@@ -19037,10 +19037,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2003",
-        "COUNT": 8,
-        "ha": 429652.11,
-        "Provincia": "Huancabamba"
+        "FIRST_IDPR": "2110",
+        "COUNT": 5,
+        "ha": 315771.41,
+        "Provincia": "San Antonio de Putina"
       },
       "geometry": {
         "type": "Polygon",
@@ -19097,10 +19097,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2004",
-        "COUNT": 10,
-        "ha": 384324.53,
-        "Provincia": "Morropón"
+        "FIRST_IDPR": "0609",
+        "COUNT": 7,
+        "ha": 492734.93,
+        "Provincia": "San Ignacio"
       },
       "geometry": {
         "type": "Polygon",
@@ -19134,10 +19134,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2005",
+        "FIRST_IDPR": "0610",
         "COUNT": 7,
-        "ha": 170913.6,
-        "Provincia": "Paita"
+        "ha": 135538.27,
+        "Provincia": "San Marcos"
       },
       "geometry": {
         "type": "Polygon",
@@ -19202,10 +19202,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2006",
-        "COUNT": 8,
-        "ha": 532185.75,
-        "Provincia": "Sullana"
+        "FIRST_IDPR": "2209",
+        "COUNT": 14,
+        "ha": 552655.88,
+        "Provincia": "San Martín"
       },
       "geometry": {
         "type": "Polygon",
@@ -19250,10 +19250,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2007",
-        "COUNT": 6,
-        "ha": 295210.92,
-        "Provincia": "Talara"
+        "FIRST_IDPR": "0611",
+        "COUNT": 13,
+        "ha": 254550.24,
+        "Provincia": "San Miguel"
       },
       "geometry": {
         "type": "Polygon",
@@ -19283,10 +19283,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2008",
-        "COUNT": 6,
-        "ha": 648768.63,
-        "Provincia": "Sechura"
+        "FIRST_IDPR": "0612",
+        "COUNT": 4,
+        "ha": 66711.2,
+        "Provincia": "San Pablo"
       },
       "geometry": {
         "type": "Polygon",
@@ -19609,10 +19609,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2101",
-        "COUNT": 15,
-        "ha": 653760.32,
-        "Provincia": "Puno"
+        "FIRST_IDPR": "2111",
+        "COUNT": 4,
+        "ha": 228458.15,
+        "Provincia": "San Román"
       },
       "geometry": {
         "type": "Polygon",
@@ -19654,10 +19654,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2102",
-        "COUNT": 15,
-        "ha": 512576.43,
-        "Provincia": "Azángaro"
+        "FIRST_IDPR": "1309",
+        "COUNT": 8,
+        "ha": 250187.38,
+        "Provincia": "Sánchez Carrión"
       },
       "geometry": {
         "type": "Polygon",
@@ -19731,10 +19731,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2103",
+        "FIRST_IDPR": "2112",
         "COUNT": 10,
-        "ha": 1179106.04,
-        "Provincia": "Carabaya"
+        "ha": 1277741.69,
+        "Provincia": "Sandia"
       },
       "geometry": {
         "type": "Polygon",
@@ -19786,10 +19786,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2104",
-        "COUNT": 7,
-        "ha": 397892.17,
-        "Provincia": "Chucuito"
+        "FIRST_IDPR": "0218",
+        "COUNT": 9,
+        "ha": 398234.45,
+        "Provincia": "Santa"
       },
       "geometry": {
         "type": "Polygon",
@@ -19827,10 +19827,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2105",
-        "COUNT": 5,
-        "ha": 568988.34,
-        "Provincia": "El Collao"
+        "FIRST_IDPR": "0613",
+        "COUNT": 11,
+        "ha": 138620.16,
+        "Provincia": "Santa Cruz"
       },
       "geometry": {
         "type": "Polygon",
@@ -19886,10 +19886,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2106",
+        "FIRST_IDPR": "1310",
         "COUNT": 8,
-        "ha": 284717.8,
-        "Provincia": "Huancané"
+        "ha": 267531.57,
+        "Provincia": "Santiago de Chuco"
       },
       "geometry": {
         "type": "Polygon",
@@ -19995,10 +19995,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2107",
-        "COUNT": 10,
-        "ha": 574465.43,
-        "Provincia": "Lampa"
+        "FIRST_IDPR": "1206",
+        "COUNT": 8,
+        "ha": 1914201.51,
+        "Provincia": "Satipo"
       },
       "geometry": {
         "type": "Polygon",
@@ -20043,10 +20043,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2108",
-        "COUNT": 9,
-        "ha": 657194.75,
-        "Provincia": "Melgar"
+        "FIRST_IDPR": "2008",
+        "COUNT": 6,
+        "ha": 648768.63,
+        "Provincia": "Sechura"
       },
       "geometry": {
         "type": "Polygon",
@@ -20082,10 +20082,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2109",
-        "COUNT": 4,
-        "ha": 103544.16,
-        "Provincia": "Moho"
+        "FIRST_IDPR": "0219",
+        "COUNT": 10,
+        "ha": 145769.4,
+        "Provincia": "Sihuas"
       },
       "geometry": {
         "type": "Polygon",
@@ -20121,10 +20121,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2110",
-        "COUNT": 5,
-        "ha": 315771.41,
-        "Provincia": "San Antonio de Putina"
+        "FIRST_IDPR": "0509",
+        "COUNT": 11,
+        "ha": 178432.95,
+        "Provincia": "Sucre"
       },
       "geometry": {
         "type": "Polygon",
@@ -20191,10 +20191,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2111",
-        "COUNT": 4,
-        "ha": 228458.15,
-        "Provincia": "San Román"
+        "FIRST_IDPR": "2006",
+        "COUNT": 8,
+        "ha": 532185.75,
+        "Provincia": "Sullana"
       },
       "geometry": {
         "type": "Polygon",
@@ -20258,10 +20258,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2112",
+        "FIRST_IDPR": "2301",
         "COUNT": 10,
-        "ha": 1277741.69,
-        "Provincia": "Sandia"
+        "ha": 824806.3,
+        "Provincia": "Tacna"
       },
       "geometry": {
         "type": "Polygon",
@@ -20363,10 +20363,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2113",
-        "COUNT": 7,
-        "ha": 42065.01,
-        "Provincia": "Yunguyo"
+        "FIRST_IDPR": "1703",
+        "COUNT": 3,
+        "ha": 2003020.8,
+        "Provincia": "Tahuamanu"
       },
       "geometry": {
         "type": "Polygon",
@@ -20404,10 +20404,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2201",
+        "FIRST_IDPR": "2007",
         "COUNT": 6,
-        "ha": 392696.46,
-        "Provincia": "Moyobamba"
+        "ha": 295210.92,
+        "Provincia": "Talara"
       },
       "geometry": {
         "type": "Polygon",
@@ -20530,10 +20530,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2202",
-        "COUNT": 6,
-        "ha": 806890.53,
-        "Provincia": "Bellavista"
+        "FIRST_IDPR": "1701",
+        "COUNT": 4,
+        "ha": 3620032.15,
+        "Provincia": "Tambopata"
       },
       "geometry": {
         "type": "Polygon",
@@ -20581,10 +20581,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2203",
-        "COUNT": 5,
-        "ha": 129316.59,
-        "Provincia": "El Dorado"
+        "FIRST_IDPR": "2304",
+        "COUNT": 8,
+        "ha": 277252.88,
+        "Provincia": "Tarata"
       },
       "geometry": {
         "type": "Polygon",
@@ -20959,10 +20959,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2204",
-        "COUNT": 6,
-        "ha": 241703.4,
-        "Provincia": "Huallaga"
+        "FIRST_IDPR": "1207",
+        "COUNT": 9,
+        "ha": 267058.18,
+        "Provincia": "Tarma"
       },
       "geometry": {
         "type": "Polygon",
@@ -21011,10 +21011,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2205",
-        "COUNT": 11,
-        "ha": 467896.38,
-        "Provincia": "Lamas"
+        "FIRST_IDPR": "0907",
+        "COUNT": 16,
+        "ha": 336926.01,
+        "Provincia": "Tayacaja"
       },
       "geometry": {
         "type": "Polygon",
@@ -21092,10 +21092,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2206",
+        "FIRST_IDPR": "2210",
         "COUNT": 5,
-        "ha": 1426188.17,
-        "Provincia": "Mariscal Cáceres"
+        "ha": 602785.59,
+        "Provincia": "Tocache"
       },
       "geometry": {
         "type": "Polygon",
@@ -21136,10 +21136,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2207",
-        "COUNT": 10,
-        "ha": 210749.92,
-        "Provincia": "Picota"
+        "FIRST_IDPR": "1301",
+        "COUNT": 11,
+        "ha": 178395.63,
+        "Provincia": "Trujillo"
       },
       "geometry": {
         "type": "Polygon",
@@ -21182,10 +21182,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2208",
-        "COUNT": 9,
-        "ha": 265242.99,
-        "Provincia": "Rioja"
+        "FIRST_IDPR": "2401",
+        "COUNT": 6,
+        "ha": 178553.1,
+        "Provincia": "Tumbes"
       },
       "geometry": {
         "type": "Polygon",
@@ -21319,10 +21319,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2209",
-        "COUNT": 14,
-        "ha": 552655.88,
-        "Provincia": "San Martín"
+        "FIRST_IDPR": "1606",
+        "COUNT": 6,
+        "ha": 2970684.43,
+        "Provincia": "Ucayali"
       },
       "geometry": {
         "type": "Polygon",
@@ -21364,10 +21364,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2210",
-        "COUNT": 5,
-        "ha": 602785.59,
-        "Provincia": "Tocache"
+        "FIRST_IDPR": "0813",
+        "COUNT": 7,
+        "ha": 144731.63,
+        "Provincia": "Urubamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -21419,10 +21419,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2301",
-        "COUNT": 10,
-        "ha": 824806.3,
-        "Provincia": "Tacna"
+        "FIRST_IDPR": "0107",
+        "COUNT": 7,
+        "ha": 399323.01,
+        "Provincia": "Utcubamba"
       },
       "geometry": {
         "type": "Polygon",
@@ -21447,10 +21447,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2302",
-        "COUNT": 6,
-        "ha": 232161.57,
-        "Provincia": "Candarave"
+        "FIRST_IDPR": "0510",
+        "COUNT": 1,
+        "ha": 26507.77,
+        "Provincia": "Víctor Fajardo"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21510,10 +21510,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2303",
-        "COUNT": 3,
-        "ha": 274085.97,
-        "Provincia": "Jorge Basadre"
+        "FIRST_IDPR": "0510",
+        "COUNT": 11,
+        "ha": 199897.77,
+        "Provincia": "Víctor Fajardo"
       },
       "geometry": {
         "type": "Polygon",
@@ -21550,10 +21550,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2304",
+        "FIRST_IDPR": "0511",
         "COUNT": 8,
-        "ha": 277252.88,
-        "Provincia": "Tarata"
+        "ha": 120829.29,
+        "Provincia": "Vilcas Huamán"
       },
       "geometry": {
         "type": "Polygon",
@@ -21602,10 +21602,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2401",
-        "COUNT": 6,
-        "ha": 178553.1,
-        "Provincia": "Tumbes"
+        "FIRST_IDPR": "1312",
+        "COUNT": 3,
+        "ha": 319306.8,
+        "Provincia": "Virú"
       },
       "geometry": {
         "type": "Polygon",
@@ -21633,10 +21633,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2402",
-        "COUNT": 3,
-        "ha": 214653.62,
-        "Provincia": "Contralmirante Villar"
+        "FIRST_IDPR": "1011",
+        "COUNT": 8,
+        "ha": 76463.43,
+        "Provincia": "Yarowilca"
       },
       "geometry": {
         "type": "Polygon",
@@ -21906,10 +21906,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2403",
-        "COUNT": 4,
-        "ha": 75819.3,
-        "Provincia": "Zarumilla"
+        "FIRST_IDPR": "1208",
+        "COUNT": 10,
+        "ha": 363635,
+        "Provincia": "Yauli"
       },
       "geometry": {
         "type": "Polygon",
@@ -21974,10 +21974,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2501",
-        "COUNT": 7,
-        "ha": 3836958.81,
-        "Provincia": "Coronel Portillo"
+        "FIRST_IDPR": "1510",
+        "COUNT": 33,
+        "ha": 699051.38,
+        "Provincia": "Yauyos"
       },
       "geometry": {
         "type": "Polygon",
@@ -22028,10 +22028,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2502",
-        "COUNT": 4,
-        "ha": 3904975.48,
-        "Provincia": "Atalaya"
+        "FIRST_IDPR": "0220",
+        "COUNT": 8,
+        "ha": 136484.28,
+        "Provincia": "Yungay"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22065,10 +22065,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2503",
-        "COUNT": 3,
-        "ha": 945016.42,
-        "Provincia": "Padre Abad"
+        "FIRST_IDPR": "2113",
+        "COUNT": 7,
+        "ha": 42065.01,
+        "Provincia": "Yunguyo"
       },
       "geometry": {
         "type": "Polygon",
@@ -22100,10 +22100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "FIRST_IDPR": "2504",
-        "COUNT": 1,
-        "ha": 1847225.68,
-        "Provincia": "Purús"
+        "FIRST_IDPR": "2403",
+        "COUNT": 4,
+        "ha": 75819.3,
+        "Provincia": "Zarumilla"
       },
       "geometry": {
         "type": "Polygon",
